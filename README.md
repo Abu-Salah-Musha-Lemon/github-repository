@@ -1,3 +1,4 @@
 # github-repository <br>
 
--[awesome-gpt-image-2][https://github.com/YouMind-OpenLab/awesome-gpt-image-2?fbclid=IwY2xjawRq8qtleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHssJtPRiRHItvFqlcfqt85TqKbrN25zLKMiFP8SljhJNJkQEWRiyL4XmLYBT_aem_uBihLXjPW0rUxGh-FZZGIg]
+-[awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2?fbclid=IwY2xjawRq8qtleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHssJtPRiRHItvFqlcfqt85TqKbrN25zLKMiFP8SljhJNJkQEWRiyL4XmLYBT_aem_uBihLXjPW0rUxGh-FZZGIg)
+-[UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop?fbclid=IwY2xjawRq8ctleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHi_ptWCmPjrJsL7GOb5DRnR13ZVr6uSZBFFB-c8zGRxG4uZ-jShiVyePi5C6_aem_JO0TifkXj0HUI26zkLr80A)
