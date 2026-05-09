@@ -35,3 +35,7 @@
 ---
 ## Game (Web,playstore)
 - [Scream Go Hero](https://abdo.itch.io/scream-go-hero)
+## cmd
+```
+arp -a
+```
