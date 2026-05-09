@@ -27,6 +27,46 @@
 - [Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat)
 - [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 - [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
+- 1. public-apis — free APIs for everything
+- 2. build-your-own-x — learn by building
+- 3. developer-roadmap — learn any tech skill
+- 4. free-programming-books — thousands free books
+- 5. system-design-primer — ace any interview
+- 6. coding-interview-university — self taught CS degree
+- 7. the-art-of-command-line — master terminal
+8. project-based-learning — learn by doing
+9. you-dont-know-js — master JavaScript deeply
+10. the-book-of-secret-knowledge — hacker resources
+11. tech-interview-handbook — crack any interview
+12. awesome-selfhosted — host your own apps
+13. javascript-algorithms — learn algos visually
+14. 30-seconds-of-code — short useful snippets
+15. gitignore — templates for every language
+16. ollama — run AI models locally
+17. langchain — build AI apps fast
+18. n8n — automate workflows with AI
+19. openclaw — personal AI assistant locally
+20. dify — build AI agents visually
+21. langflow — drag and drop AI pipelines
+22. mem0 — memory layer for AI agents
+23. browser-use — let AI control browser
+24. ruflo — agent orchestration for Claude
+25. crewai — multi agent AI teams
+26. hermes-agent — open source AI agent
+27. markitdown — convert any file to markdown
+28. maigret — OSINT across 3000+ sites
+29. open-webui — self hosted ChatGPT interface
+30. aider — AI pair programming in terminal
+31. agency-agents — full AI agency in one prompt
+32. tradingagents — multi agent trading framework
+33. browserbase-skills — Claude web browsing SDK
+34. autogen — Microsoft multi agent framework
+35. metagpt — AI agents as a software company
+36. lobe-hub — visual multi agent platform
+37. huggingface-transformers — foundation of modern AI
+38. cocoindex — engine for long horizon agents
+39. freeCodeCamp — learn to code for free
+40. stable-diffusion-webui — run image AI locally
 
 ---
 ## website
