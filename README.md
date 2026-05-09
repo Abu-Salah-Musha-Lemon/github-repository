@@ -27,3 +27,8 @@
 - [Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat)
 - [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 - [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
+
+---
+## website
+- [freesewing.eu](https://freesewing.eu/)
+
