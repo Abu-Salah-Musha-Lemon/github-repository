@@ -73,9 +73,13 @@
 - [freesewing.eu](https://freesewing.eu/)
 - [wolframalpha](https://www.wolframalpha.com/)
 - [phet.colorado](https://phet.colorado.edu/)
+- [autosprite](https://www.autosprite.io/)
+- [staying.fun](https://staying.fun/en)
 ---
 ## Game (Web,playstore)
 - [Scream Go Hero](https://abdo.itch.io/scream-go-hero)
+- <!--[https://doodieman.com/](https://doodieman.com/) -->
+- 
 ## cmd
 ```
 arp -a
