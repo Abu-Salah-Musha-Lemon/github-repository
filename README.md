@@ -75,6 +75,7 @@
 - [phet.colorado](https://phet.colorado.edu/)
 - [autosprite](https://www.autosprite.io/)
 - [staying.fun](https://staying.fun/en)
+- [meigen.ai/](https://www.meigen.ai/)
 ---
 ## Game (Web,playstore)
 - [Scream Go Hero](https://abdo.itch.io/scream-go-hero)
