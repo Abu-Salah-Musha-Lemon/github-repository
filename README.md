@@ -28,6 +28,7 @@
 - [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 - [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [https://github.com/Developer-Y/cs-video-courses]
+- [Automate-faceless-content](https://github.com/cporter202/automate-faceless-content)
 - 1. public-apis — free APIs for everything
 - 2. build-your-own-x — learn by building
 - 3. developer-roadmap — learn any tech skill
