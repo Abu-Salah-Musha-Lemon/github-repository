@@ -78,6 +78,16 @@
 - [autosprite](https://www.autosprite.io/)
 - [staying.fun](https://staying.fun/en)
 - [meigen.ai/](https://www.meigen.ai/)
+- [Notion AI](https://www.notion.so/product/ai)
+- [ClickUp AI — ](https://clickup.com/ai)
+- [Wispr Flow — ](https://wisprflow.ai)
+- [Otter AI — ](https://otter.ai)
+- [Krisp AI — ](https://krisp.ai)
+- [Fireflies AI — ](https://fireflies.ai)
+- [Turnitin — ](https://www.turnitin.com)
+- [Originality AI — ](https://originality.ai)
+- [GPTZero — ](https://gptzero.me)
+- 
 ---
 ## Game (Web,playstore)
 - [Scream Go Hero](https://abdo.itch.io/scream-go-hero)
