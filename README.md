@@ -1,99 +1,191 @@
-# github-repository <br>
+# 🚀 Awesome AI, Development & Productivity Resources
 
-- [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2?fbclid=IwY2xjawRq8qtleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHssJtPRiRHItvFqlcfqt85TqKbrN25zLKMiFP8SljhJNJkQEWRiyL4XmLYBT_aem_uBihLXjPW0rUxGh-FZZGIg)
-- [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop?fbclid=IwY2xjawRq8ctleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHi_ptWCmPjrJsL7GOb5DRnR13ZVr6uSZBFFB-c8zGRxG4uZ-jShiVyePi5C6_aem_JO0TifkXj0HUI26zkLr80A)
-- [open-design](https://github.com/nexu-io/open-design?fbclid=IwY2xjawRq9ohleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkkDG4MVLbrz10E9GtqlntjEFFmfpPDcI1yS7r-KKm3FRDHW_HSvvBnm39yi_aem_o86Rj1AKq3efmUdLM5Wl9g)
-- [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources?fbclid=IwY2xjawRq9upleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHssJtPRiRHItvFqlcfqt85TqKbrN25zLKMiFP8SljhJNJkQEWRiyL4XmLYBT_aem_uBihLXjPW0rUxGh-FZZGIg)
-- [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins?fbclid=IwY2xjawRq9ypleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrsDG_VvSOc00Hyetu3FXAbsE6Cm1jSy0qfuSFRkMuqRXYNEbcw8o4UQR6ZM_aem_w39wtiGkA003HXQPWhjx0g)
-- [social-media-skills](https://github.com/charlie947/social-media-skills?fbclid=IwY2xjawRq92FleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHssJtPRiRHItvFqlcfqt85TqKbrN25zLKMiFP8SljhJNJkQEWRiyL4XmLYBT_aem_uBihLXjPW0rUxGh-FZZGIg)
-- [free-claude-code](https://github.com/Alishahryar1/free-claude-code?fbclid=IwY2xjawRq96pleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmnDmV5sS9CGag7u8gKVrM4J4tUjV0ER7xWfOMTf-Hur2j0n-3JOqrULpSwW_aem_Jk1nF5ST1KG9Dmo76mhk6Q)
-- [inbox-zero](https://github.com/elie222/inbox-zero?fbclid=IwY2xjawRq-AdleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrTlD3TVzRzavVD-4uIDZ6AD-W3lTcFprvpjZNJaesRu7qzldPpZUVN3DKYU_aem_-wF3hwvOd4q92wn3v6k9zg)
-- [prompt-master](https://github.com/nidhinjs/prompt-master?fbclid=IwY2xjawRq-DhleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlWZ8y_MMRyMKwlck-0Njud3ED-fiRvggz_C81fYouV5wKnZZ4u4xkG1-bUO_aem_lxF6tLOuMklFMzhmf92CvQ)
-- [automate-faceless-content](https://github.com/cporter202/automate-faceless-content?fbclid=IwY2xjawRq-IJleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHi_ptWCmPjrJsL7GOb5DRnR13ZVr6uSZBFFB-c8zGRxG4uZ-jShiVyePi5C6_aem_JO0TifkXj0HUI26zkLr80A)
-- [video-use](https://github.com/browser-use/video-use?fbclid=IwY2xjawRq-OtleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlWZ8y_MMRyMKwlck-0Njud3ED-fiRvggz_C81fYouV5wKnZZ4u4xkG1-bUO_aem_lxF6tLOuMklFMzhmf92CvQ)
-- [awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design?fbclid=IwY2xjawRq-RtleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvPIRJX5qW6h_lYgk-1hzbwCJ8gFiCdP4h2BepTMlqVCPlPR2ZSUjq21GhAT_aem_Q2Xo0sDW_PAOrQ6Zjd4wwg)
-- [gstack](https://github.com/garrytan/gstack?fbclid=IwY2xjawRq-V1leHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlWZ8y_MMRyMKwlck-0Njud3ED-fiRvggz_C81fYouV5wKnZZ4u4xkG1-bUO_aem_lxF6tLOuMklFMzhmf92CvQ)
-- [magika](https://github.com/google/magika?fbclid=IwY2xjawRq-YVleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhV1R-QWukk5aZTZMSusf0CrYF_jFrYmm-rUXJOF1OCAhKCKkYdGtircpaEJ_aem_j09oOcDvgkMhQXLqgVMAWg)
-- [mempalace](https://github.com/MemPalace/mempalace?fbclid=IwY2xjawRq-eJleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhV1R-QWukk5aZTZMSusf0CrYF_jFrYmm-rUXJOF1OCAhKCKkYdGtircpaEJ_aem_j09oOcDvgkMhQXLqgVMAWg)
-- [claude-mem](https://github.com/thedotmack/claude-mem?fbclid=IwY2xjawRq-k5leHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqHX4j11jEQv3pB1U3O2np4r96pLX-uXAEOg9IOKjRyiAiFg0hJqdZPbS2mY_aem_6qTdwe44rWfn-7Y3fMe1qg)
-- [VoxCPM](https://github.com/OpenBMB/VoxCPM?fbclid=IwY2xjawRq-nlleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlWZ8y_MMRyMKwlck-0Njud3ED-fiRvggz_C81fYouV5wKnZZ4u4xkG1-bUO_aem_lxF6tLOuMklFMzhmf92CvQ)
-- [dify](https://github.com/langgenius/dify?fbclid=IwY2xjawRq-qRleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhV1R-QWukk5aZTZMSusf0CrYF_jFrYmm-rUXJOF1OCAhKCKkYdGtircpaEJ_aem_j09oOcDvgkMhQXLqgVMAWg)
-- [timesfm](https://github.com/google-research/timesfm?fbclid=IwY2xjawRq-utleHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHssJtPRiRHItvFqlcfqt85TqKbrN25zLKMiFP8SljhJNJkQEWRiyL4XmLYBT_aem_uBihLXjPW0rUxGh-FZZGIg)
-- [DeepTutor](https://github.com/HKUDS/DeepTutor?fbclid=IwY2xjawRq-y9leHRuA2FlbQIxMABicmlkETF5OWVnbjdoM0pxc1VWYThGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHssJtPRiRHItvFqlcfqt85TqKbrN25zLKMiFP8SljhJNJkQEWRiyL4XmLYBT_aem_uBihLXjPW0rUxGh-FZZGIg)
-- [claude-howto](https://github.com/luongnv89/claude-howto)
-- [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-- [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
-- [ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills)
-- [Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat)
-- [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
-- [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
-- [https://github.com/Developer-Y/cs-video-courses]
-- [Automate-faceless-content](https://github.com/cporter202/automate-faceless-content)
-- 1. public-apis — free APIs for everything
-- 2. build-your-own-x — learn by building
-- 3. developer-roadmap — learn any tech skill
-- 4. free-programming-books — thousands free books
-- 5. system-design-primer — ace any interview
-- 6. coding-interview-university — self taught CS degree
-- 7. the-art-of-command-line — master terminal
-8. project-based-learning — learn by doing
-9. you-dont-know-js — master JavaScript deeply
-10. the-book-of-secret-knowledge — hacker resources
-11. tech-interview-handbook — crack any interview
-12. awesome-selfhosted — host your own apps
-13. javascript-algorithms — learn algos visually
-14. 30-seconds-of-code — short useful snippets
-15. gitignore — templates for every language
-16. ollama — run AI models locally
-17. langchain — build AI apps fast
-18. n8n — automate workflows with AI
-19. openclaw — personal AI assistant locally
-20. dify — build AI agents visually
-21. langflow — drag and drop AI pipelines
-22. mem0 — memory layer for AI agents
-23. browser-use — let AI control browser
-24. ruflo — agent orchestration for Claude
-25. crewai — multi agent AI teams
-26. hermes-agent — open source AI agent
-27. markitdown — convert any file to markdown
-28. maigret — OSINT across 3000+ sites
-29. open-webui — self hosted ChatGPT interface
-30. aider — AI pair programming in terminal
-31. agency-agents — full AI agency in one prompt
-32. tradingagents — multi agent trading framework
-33. browserbase-skills — Claude web browsing SDK
-34. autogen — Microsoft multi agent framework
-35. metagpt — AI agents as a software company
-36. lobe-hub — visual multi agent platform
-37. huggingface-transformers — foundation of modern AI
-38. cocoindex — engine for long horizon agents
-39. freeCodeCamp — learn to code for free
-40. stable-diffusion-webui — run image AI locally
+> Curated collection of AI tools, agents, developer resources, learning materials, automation frameworks, websites, and productivity tools.
 
 ---
-## website
-- [freesewing.eu](https://freesewing.eu/)
-- [wolframalpha](https://www.wolframalpha.com/)
-- [phet.colorado](https://phet.colorado.edu/)
-- [autosprite](https://www.autosprite.io/)
-- [staying.fun](https://staying.fun/en)
-- [meigen.ai/](https://www.meigen.ai/)
-- [Notion AI](https://www.notion.so/product/ai)
-- [ClickUp AI — ](https://clickup.com/ai)
-- [Wispr Flow — ](https://wisprflow.ai)
-- [Otter AI — ](https://otter.ai)
-- [Krisp AI — ](https://krisp.ai)
-- [Fireflies AI — ](https://fireflies.ai)
-- [Turnitin — ](https://www.turnitin.com)
-- [Originality AI — ](https://originality.ai)
-- [GPTZero — ](https://gptzero.me)
-- 
+
+## 📚 Contents
+
+- 🤖 AI Agents & Automation
+- 🎨 AI Design & Image Generation
+- 🧠 Memory & Knowledge Systems
+- 💻 Developer Tools
+- 📈 Marketing & Content Creation
+- 📖 Learning Resources
+- 🔬 Research & AI Models
+- 🌐 Websites
+- 🎮 Games
+- 🖥️ Command Line
+
 ---
-## Game (Web,playstore)
-- [Scream Go Hero](https://abdo.itch.io/scream-go-hero)
-- <!--[https://doodieman.com/](https://doodieman.com/) -->
-- [unfair-mario](https://www.miniplay.com/game/unfair-mario)
-## cmd
-```
+
+# 🤖 AI Agents & Automation
+
+| Project | Link |
+|----------|------|
+| UI-TARS Desktop | https://github.com/bytedance/UI-TARS-desktop |
+| Dify | https://github.com/langgenius/dify |
+| Browser Use | https://github.com/browser-use/browser-use |
+| Video Use | https://github.com/browser-use/video-use |
+| OpenClaw | https://github.com/openclaw/openclaw |
+| CrewAI | https://github.com/crewAIInc/crewAI |
+| AutoGen | https://github.com/microsoft/autogen |
+| MetaGPT | https://github.com/FoundationAgents/MetaGPT |
+| Atomic Chat | https://github.com/AtomicBot-ai/Atomic-Chat |
+| Hermes Agent | https://github.com |
+| Agency Agents | https://github.com |
+| TradingAgents | https://github.com |
+| Browserbase Skills | https://github.com |
+| Ruflo | https://github.com |
+| Lobe Hub | https://github.com/lobehub/lobe-chat |
+
+---
+
+# 🎨 AI Design & Image Generation
+
+| Project | Link |
+|----------|------|
+| Awesome GPT Image 2 | https://github.com/YouMind-OpenLab/awesome-gpt-image-2 |
+| Open Design | https://github.com/nexu-io/open-design |
+| Awesome Claude Design | https://github.com/VoltAgent/awesome-claude-design |
+| Stable Diffusion WebUI | https://github.com/AUTOMATIC1111/stable-diffusion-webui |
+
+---
+
+# 🧠 Memory & Knowledge
+
+| Project | Link |
+|----------|------|
+| MemPalace | https://github.com/MemPalace/mempalace |
+| Claude Mem | https://github.com/thedotmack/claude-mem |
+| Knowledge Work Plugins | https://github.com/anthropics/knowledge-work-plugins |
+| Mem0 | https://github.com/mem0ai/mem0 |
+
+---
+
+# 💻 Developer Tools
+
+| Tool | Link |
+|------|------|
+| Ollama | https://github.com/ollama/ollama |
+| LangChain | https://github.com/langchain-ai/langchain |
+| LangFlow | https://github.com/langflow-ai/langflow |
+| Open WebUI | https://github.com/open-webui/open-webui |
+| Aider | https://github.com/Aider-AI/aider |
+| N8N | https://github.com/n8n-io/n8n |
+| MarkItDown | https://github.com/microsoft/markitdown |
+| Magika | https://github.com/google/magika |
+| CocoIndex | https://github.com/cocoindex-io/cocoindex |
+| Free LLM API Resources | https://github.com/cheahjs/free-llm-api-resources |
+| Prompt Master | https://github.com/nidhinjs/prompt-master |
+| Inbox Zero | https://github.com/elie222/inbox-zero |
+
+---
+
+# 📈 Marketing & Content Creation
+
+| Resource | Link |
+|-----------|------|
+| Social Media Skills | https://github.com/charlie947/social-media-skills |
+| AI Marketing Skills | https://github.com/ericosiu/ai-marketing-skills |
+| Automate Faceless Content | https://github.com/cporter202/automate-faceless-content |
+| RedditVideoMakerBot | https://github.com/elebumm/RedditVideoMakerBot |
+
+---
+
+# 📖 Learning Resources
+
+## Programming
+
+- https://github.com/public-apis/public-apis
+- https://github.com/codecrafters-io/build-your-own-x
+- https://github.com/kamranahmedse/developer-roadmap
+- https://github.com/EbookFoundation/free-programming-books
+- https://github.com/donnemartin/system-design-primer
+- https://github.com/jwasham/coding-interview-university
+- https://github.com/jlevy/the-art-of-command-line
+- https://github.com/practical-tutorials/project-based-learning
+- https://github.com/getify/You-Dont-Know-JS
+- https://github.com/trimstray/the-book-of-secret-knowledge
+- https://github.com/yangshun/tech-interview-handbook
+- https://github.com/awesome-selfhosted/awesome-selfhosted
+- https://github.com/trekhleb/javascript-algorithms
+- https://github.com/30-seconds/30-seconds-of-code
+- https://github.com/github/gitignore
+
+## AI
+
+- https://github.com/Alishahryar1/free-claude-code
+- https://github.com/luongnv89/claude-howto
+- https://github.com/affaan-m/everything-claude-code
+- https://github.com/promptslab/Awesome-Prompt-Engineering
+
+## Courses
+
+- https://github.com/Developer-Y/cs-video-courses
+- https://www.freecodecamp.org
+
+---
+
+# 🔬 Research & AI Models
+
+| Project | Link |
+|----------|------|
+| VoxCPM | https://github.com/OpenBMB/VoxCPM |
+| TimesFM | https://github.com/google-research/timesfm |
+| DeepTutor | https://github.com/HKUDS/DeepTutor |
+| GStack | https://github.com/garrytan/gstack |
+
+---
+
+# 🌐 Websites
+
+## Productivity
+
+- https://www.notion.so/product/ai
+- https://clickup.com/ai
+- https://wisprflow.ai
+- https://otter.ai
+- https://krisp.ai
+- https://fireflies.ai
+
+## Learning
+
+- https://www.wolframalpha.com
+- https://phet.colorado.edu
+
+## AI Detection
+
+- https://www.turnitin.com
+- https://originality.ai
+- https://gptzero.me
+
+## Miscellaneous
+
+- https://freesewing.eu
+- https://staying.fun/en
+- https://www.autosprite.io
+- https://www.meigen.ai
+
+---
+
+# 🎮 Games
+
+- https://abdo.itch.io/scream-go-hero
+- https://doodieman.com
+- https://www.miniplay.com/game/unfair-mario
+
+---
+
+# 🖥️ Command Line
+
+```bash
 arp -a
 ```
+
+Display the ARP cache showing IP ↔ MAC address mappings.
+
+---
+## ⭐ Support
+
+If this repository helps you, consider giving it a star.
