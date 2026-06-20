@@ -148,6 +148,7 @@
 - https://otter.ai
 - https://krisp.ai
 - https://fireflies.ai
+- https://www.planyourroom.com/
 
 ## Learning
 
