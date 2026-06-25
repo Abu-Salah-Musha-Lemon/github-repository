@@ -112,6 +112,8 @@
 - https://github.com/trekhleb/javascript-algorithms
 - https://github.com/30-seconds/30-seconds-of-code
 - https://github.com/github/gitignore
+- https://seeing-theory.brown.edu/#secondPage
+- https://course.fast.ai/
 
 ## AI
 
