@@ -114,6 +114,7 @@
 - https://github.com/github/gitignore
 - https://seeing-theory.brown.edu/#secondPage
 - https://course.fast.ai/
+- https://github.com/tkarim45/Beginner-Data-Science-Projects
 
 ## AI
 
