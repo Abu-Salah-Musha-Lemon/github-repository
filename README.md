@@ -163,6 +163,8 @@
 - https://www.turnitin.com
 - https://originality.ai
 - https://gptzero.me
+- https://www.toolfk.com/
+- https://arena.ai/text/side-by-side
 
 ## Miscellaneous
 
