@@ -152,6 +152,8 @@
 - https://krisp.ai
 - https://fireflies.ai
 - https://www.planyourroom.com/
+- https://thestocks.im/
+- https://jitter.video/
 
 ## Learning
 
