@@ -352,7 +352,7 @@ The right type depends on: whether labeled data exists, the nature of the desire
 
 ### Question 6
 
-#### a) Dendrogram via Agglomerative Clustering (Single Linkage)
+#### a) Dendrogram via [Agglomerative](https://github.com/Abu-Salah-Musha-Lemon/github-repository/blob/main/Agglomerative%20Clustering%20Method.md) Clustering (Single Linkage)
 
 *Note: The distance table has one internal inconsistency (Chittagong–Barisal is listed as 445 in one row and 415 in another); the calculation below uses 415, taking the Barisal row as the reference. The linkage method used is single linkage (nearest-neighbor distance) since the exam question does not specify one.*
 
