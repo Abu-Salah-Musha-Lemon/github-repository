@@ -480,7 +480,76 @@ print(avg_scores)
 **Hyperparameter tuning** is the process of finding the optimal set of hyperparameters (settings configured before training, such as learning rate, number of trees, k in KNN, C/gamma in SVM, or number of hidden layers in a neural network) that produce the best model performance on unseen/validation data. Unlike model parameters (weights), hyperparameters are not learned directly from the training data — they are chosen through methods like **Grid Search**, **Random Search**, or **Bayesian Optimization**, typically evaluated using cross-validation, to balance underfitting and overfitting and maximize generalization performance.
 
 ---
+or 
+### What is Hyperparameter Tuning in Machine Learning?
 
+**Hyperparameter tuning** is the process of finding the best values for a machine learning model's **hyperparameters** to achieve the highest possible performance (such as accuracy, precision, recall, or F1-score) on unseen data.
+
+Unlike model parameters (such as weights in a neural network), **hyperparameters are set before training** and control how the learning algorithm works.
+
+### Definition
+
+**Hyperparameter tuning** is the process of systematically selecting the optimal hyperparameter values of a machine learning model to improve its predictive performance and generalization ability.
+
+### Examples of Hyperparameters
+
+- **Decision Tree:** Maximum depth (`max_depth`), minimum samples per leaf (`min_samples_leaf`)
+- **Random Forest:** Number of trees (`n_estimators`), maximum features (`max_features`)
+- **Support Vector Machine (SVM):** Regularization parameter (`C`), kernel type, `gamma`
+- **K-Nearest Neighbors (KNN):** Number of neighbors (`k`)
+- **Neural Networks:** Learning rate, batch size, number of hidden layers, number of epochs
+
+### Why is Hyperparameter Tuning Important?
+
+- Improves model accuracy and performance.
+- Reduces overfitting and underfitting.
+- Helps the model generalize better to new data.
+- Finds the best configuration for a given dataset.
+
+### Common Hyperparameter Tuning Methods
+
+#### 1. Grid Search
+- Tests every possible combination of predefined hyperparameter values.
+- Very thorough but computationally expensive.
+
+#### 2. Random Search
+- Randomly selects combinations of hyperparameters.
+- Faster than Grid Search and often finds good solutions.
+
+#### 3. Bayesian Optimization
+- Uses previous results to intelligently choose the next set of hyperparameters.
+- More efficient than Grid Search for large search spaces.
+
+#### 4. Automated Hyperparameter Optimization
+- Uses tools such as **Optuna**, **Hyperopt**, or **AutoML** frameworks to automate the tuning process.
+
+### Example
+
+Suppose you are training an SVM classifier:
+
+- `C = [0.1, 1, 10, 100]`
+- `gamma = [0.001, 0.01, 0.1, 1]`
+
+Hyperparameter tuning evaluates different combinations (often using cross-validation) and selects the pair that gives the best validation performance.
+
+### Advantages
+
+- Increases model performance.
+- Improves prediction accuracy.
+- Helps build a more robust and reliable model.
+- Can significantly enhance generalization on unseen data.
+
+### Disadvantages
+
+- Can be time-consuming.
+- Requires additional computational resources.
+- Large search spaces may take a long time to explore.
+
+### Summary
+
+Hyperparameter tuning is a crucial step in machine learning that optimizes the settings controlling a model's learning process. By selecting the best hyperparameter values, it improves prediction accuracy, reduces overfitting or underfitting, and helps the model perform better on unseen data.
+
+---
 *End of solutions — Questions 1–7, 17th Batch (2025) exam paper.*
 
 ---
