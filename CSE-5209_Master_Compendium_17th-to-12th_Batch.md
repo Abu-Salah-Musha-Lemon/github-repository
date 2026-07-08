@@ -245,8 +245,8 @@ Key SVM hyperparameters and how to tune them:
 
 --- 
 or
-#### How do you design and fine-tune an SVM model's parameters to achieve the highest accuracy?
-#### Steps for Designing and Fine-Tuning an SVM Model 
+### How do you design and fine-tune an SVM model's parameters to achieve the highest accuracy?
+### Steps for Designing and Fine-Tuning an SVM Model 
 
 ### 1. Prepare the Data
 - Clean missing values.
@@ -283,6 +283,7 @@ Measure performance using:
 
 ### Conclusion
 Feature scaling, appropriate kernel selection, and hyperparameter tuning using **Grid Search** with **Cross-Validation** are the key steps for achieving the highest SVM accuracy.
+
 ---
 
 #### c) Classification vs Regression
