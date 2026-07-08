@@ -261,14 +261,14 @@ Key SVM hyperparameters and how to tune them:
 **Data visualization** is the graphical representation of data and information, using visual elements like charts, graphs, and maps to help identify patterns, trends, and outliers in data.
 
 **Types of data visualizations:**
-- Bar chart / column chart
-- Line chart
-- Scatter plot
-- Histogram
-- Pie chart
-- Box plot
-- Heatmap
-- Area chart
+- Bar chart / column chart - compares categorical data.
+- Line chart -shows trends over time.
+- Scatter plot – shows relationships between variables.
+- Histogram – shows frequency distribution of data.
+- Pie chart – displays proportions or percentages.
+- Box plot – summarizes data distribution and outliers.
+- Heatmap – represents values using colors.
+- Area chart – shows cumulative trends over time.
 - Bubble chart
 - Tree map / dendrogram
 
@@ -280,8 +280,21 @@ Key SVM hyperparameters and how to tune them:
 - **Reinforcement learning** — when the problem involves sequential decision-making with feedback from an environment (e.g., training a robot or a game-playing agent).
 
 The right type depends on: whether labeled data exists, the nature of the desired output (prediction, grouping, or action policy), and how the system receives feedback.
-
+---
 #### c) Forward propagation vs Backpropagation
+#### Definition of Forward Propagation
+
+**Forward propagation** is the process in a neural network where input data passes through the input layer, hidden layer(s), and output layer to produce a prediction. During this process, each neuron computes a weighted sum of its inputs, adds a bias, applies an activation function, and passes the result to the next layer.
+
+**Purpose:** To generate the network's output (prediction).
+
+#### Definition of Backpropagation
+
+**Backpropagation** is the process of training a neural network by propagating the prediction error backward through the network. It calculates the gradient of the loss function with respect to each weight and bias, then updates them using an optimization algorithm such as gradient descent to reduce the prediction error.
+
+**Purpose:** To minimize the loss by updating the model's parameters.
+
+---
 
 | Aspect | Forward Propagation | Backpropagation |
 |---|---|---|
