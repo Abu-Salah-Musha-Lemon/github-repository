@@ -323,6 +323,7 @@ Feature scaling, appropriate kernel selection, and hyperparameter tuning using *
 - **Reinforcement learning** — when the problem involves sequential decision-making with feedback from an environment (e.g., training a robot or a game-playing agent).
 
 The right type depends on: whether labeled data exists, the nature of the desired output (prediction, grouping, or action policy), and how the system receives feedback.
+
 ---
 #### c) Forward propagation vs Backpropagation
 #### Definition of Forward Propagation
