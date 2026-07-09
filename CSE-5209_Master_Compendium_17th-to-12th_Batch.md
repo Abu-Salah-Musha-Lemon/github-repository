@@ -960,17 +960,100 @@ LLM models are | models are now | are now making | now making software | making 
 - Correlation matrices reveal redundant/irrelevant features.
 - `.duplicated()` checks reveal duplicate rows.
 
-#### b) Z-scores for {10,20,30,40,50}, μ=30, σ=14.14
+#### b) Z-scores for {10,20,30,40,50},
 
-Z = (x − μ) / σ
+### Dataset
 
-| x | Z-score |
-|---|---|
-| 10 | (10−30)/14.14 = **−1.414** |
-| 20 | (20−30)/14.14 = **−0.707** |
-| 30 | (30−30)/14.14 = **0.000** |
-| 40 | (40−30)/14.14 = **0.707** |
-| 50 | (50−30)/14.14 = **1.414** |
+$$X = \{10, 20, 30, 40, 50\}$$
+
+---
+
+### Step 1: Calculate the Mean
+
+The population mean is calculated using:
+
+$$\mu = \frac{\sum x}{N}$$
+
+Substituting the values:
+
+$$\mu = \frac{10+20+30+40+50}{5}$$
+
+$$\mu = \frac{150}{5} = 30$$
+
+**Mean ($\mu$) = 30**
+
+---
+
+### Step 2: Calculate the Population Standard Deviation
+
+The population standard deviation formula is:
+
+$$\sigma = \sqrt{\frac{\sum (x-\mu)^2}{N}}$$
+
+Substituting the values:
+
+$$\sigma = \sqrt{\frac{(10-30)^2+(20-30)^2+(30-30)^2+(40-30)^2+(50-30)^2}{5}}$$
+
+$$= \sqrt{\frac{400+100+0+100+400}{5}}$$
+
+$$= \sqrt{\frac{1000}{5}}$$
+
+$$= \sqrt{200}$$
+
+$$\approx 14.14$$
+
+**Population Standard Deviation ($\sigma$) $\approx$ 14.14**
+
+---
+
+### Step 3: Calculate the Z-Score
+
+The Z-score formula is:
+
+$$z = \frac{x-\mu}{\sigma}$$
+
+Using:
+
+* **Mean:** $\mu = 30$
+* **Standard deviation:** $\sigma \approx 14.14$
+
+| Value ($x$) | Calculation | Z-Score |
+| --- | --- | --- |
+| 10 | $\frac{10-30}{14.14}$ | **-1.41** |
+| 20 | $\frac{20-30}{14.14}$ | **-0.71** |
+| 30 | $\frac{30-30}{14.14}$ | **0.00** |
+| 40 | $\frac{40-30}{14.14}$ | **0.71** |
+| 50 | $\frac{50-30}{14.14}$ | **1.41** |
+
+---
+
+### Final Results
+
+| Value | Z-Score |
+| --- | --- |
+| 10 | **-1.41** |
+| 20 | **-0.71** |
+| 30 | **0.00** |
+| 40 | **0.71** |
+| 50 | **1.41** |
+
+---
+
+### Summary
+
+* **Dataset:** `{10, 20, 30, 40, 50}`
+* **Mean ($\mu$) = 30**
+* **Population Standard Deviation ($\sigma$) $\approx$ 14.14**
+
+The Z-scores show how many standard deviations each value is away from the mean:
+
+* **10:** 1.41 standard deviations below the mean.
+* **20:** 0.71 standard deviations below the mean.
+* **30:** Exactly equal to the mean.
+* **40:** 0.71 standard deviations above the mean.
+* **50:** 1.41 standard deviations above the mean.
+
+---
 
 #### c) KNN (k=3, Manhattan/Hamming distance for categorical data) — predict class of (Red, Large, Square)
 
