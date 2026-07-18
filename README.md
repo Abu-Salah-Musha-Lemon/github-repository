@@ -49,6 +49,7 @@
 | Open Design | https://github.com/nexu-io/open-design |
 | Awesome Claude Design | https://github.com/VoltAgent/awesome-claude-design |
 | Stable Diffusion WebUI | https://github.com/AUTOMATIC1111/stable-diffusion-webui |
+| Ads Creation| https://usemintly.com/|
 
 ---
 
