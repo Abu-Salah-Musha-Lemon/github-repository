@@ -80,6 +80,7 @@
 | Free LLM API Resources | https://github.com/cheahjs/free-llm-api-resources |
 | Prompt Master | https://github.com/nidhinjs/prompt-master |
 | Inbox Zero | https://github.com/elie222/inbox-zero |
+| Rosebud AI Game Maker|https://rosebud.ai/|
 
 ---
 
