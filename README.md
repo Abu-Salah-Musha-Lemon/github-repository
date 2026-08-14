@@ -158,6 +158,7 @@
 - https://thestocks.im/
 - https://jitter.video/
 - Symbl.space
+- https://github.com/public-apis/public-apis
 
 ## Learning
 
