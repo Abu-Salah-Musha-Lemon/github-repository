@@ -165,6 +165,8 @@
 
 - https://www.wolframalpha.com
 - https://phet.colorado.edu
+- https://www.meigen.ai/
+- https://www.mindluster.com/
 
 ## AI Detection
 
@@ -188,6 +190,7 @@
 - https://abdo.itch.io/scream-go-hero
 - https://doodieman.com
 - https://www.miniplay.com/game/unfair-mario
+- https://www.friv.com/
 
 ---
 
