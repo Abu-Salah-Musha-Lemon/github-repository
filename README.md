@@ -120,6 +120,10 @@
 - https://seeing-theory.brown.edu/#secondPage
 - https://course.fast.ai/
 - https://github.com/tkarim45/Beginner-Data-Science-Projects
+- https://www.codedex.io/
+- https://play.elevatorsaga.com/
+- https://flexboxfroggy.com/
+- https://learngitbranching.js.org/
 
 ## AI
 
