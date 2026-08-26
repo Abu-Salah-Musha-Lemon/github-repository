@@ -83,6 +83,7 @@
 | Inbox Zero | https://github.com/elie222/inbox-zero |
 | Rosebud AI Game Maker|https://rosebud.ai/|
 |ui component| [originkit.devy](https://www.originkit.dev/)|
+|FingerprintJS|https://github.com/fingerprintjs/fingerprintjs/|
 
 ---
 
