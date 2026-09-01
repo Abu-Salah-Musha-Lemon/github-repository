@@ -165,6 +165,7 @@
 - https://jitter.video/
 - Symbl.space
 - https://github.com/public-apis/public-apis
+- https://resourceboy.com/
 
 ## Learning
 
