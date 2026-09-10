@@ -126,6 +126,7 @@
 - https://learngitbranching.js.org/
 - https://pwn.college/
 - https://www.myinstants.com/en/index/bd/
+- https://bezier.method.ac/
 
 ## AI
 
