@@ -85,6 +85,7 @@
 |ui component| [originkit.devy](https://www.originkit.dev/)|
 |FingerprintJS|https://github.com/fingerprintjs/fingerprintjs/|
 |agent-reach|https://github.com/Panniantong/agent-reach|
+|www.brusheezy.com/free/photoshop-cc|https://www.brusheezy.com/free/photoshop-cc|
 
 
 ---
