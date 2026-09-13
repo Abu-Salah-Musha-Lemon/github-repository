@@ -170,6 +170,7 @@
 - https://github.com/public-apis/public-apis
 - https://resourceboy.com/
 - https://fmhy.net/
+- https://scribd.vdownloaders.com/
 
 ## Learning
 
