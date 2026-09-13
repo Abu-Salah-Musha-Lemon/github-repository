@@ -84,6 +84,8 @@
 | Rosebud AI Game Maker|https://rosebud.ai/|
 |ui component| [originkit.devy](https://www.originkit.dev/)|
 |FingerprintJS|https://github.com/fingerprintjs/fingerprintjs/|
+|agent-reach|https://github.com/Panniantong/agent-reach|
+
 
 ---
 
@@ -127,6 +129,8 @@
 - https://pwn.college/
 - https://www.myinstants.com/en/index/bd/
 - https://bezier.method.ac/
+- https://ml-visualized.com/index.html
+- https://seeing-theory.brown.edu/
 
 ## AI
 
