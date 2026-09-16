@@ -149,6 +149,8 @@
 - (How to Build Self-Learning Al Agents (Python Tutorial))[https://www.youtube.com/watch?v=ynhl8KjjS3Y]
 - (ditch Google!! (build your own PRIVATE search engine)[https://www.youtube.com/watch?v=ifT6npY39Dw]
 - (I made a C compiler in C)[https://www.youtube.com/watch?v=UW8LgC-S_co]
+- (Build your one compiler in C)[https://www.youtube.com/watch?v=-4RmhDy0A2s&list=PLRnI_2_ZWhtA_ZAzEa8uJF8wgGF0HjjEz]
+- (Write your own Operating System)[https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M]
 
 ---
 
