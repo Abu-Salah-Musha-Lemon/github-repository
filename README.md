@@ -144,6 +144,11 @@
 
 - https://github.com/Developer-Y/cs-video-courses
 - https://www.freecodecamp.org
+- (Build your own Redis in Java | Codecrafters)[https://www.youtube.com/playlist?list=PLUtdCvEWBvma4DTjQdH5qCV4NIxqhOfDo]
+- (write a database from scratch)[https://www.youtube.com/watch?v=HHO2K23XxbM&list=PLWRwj01AnyEtjaw-ZnnAQWnVYPZF5WayV]
+- (How to Build Self-Learning Al Agents (Python Tutorial))[https://www.youtube.com/watch?v=ynhl8KjjS3Y]
+- (ditch Google!! (build your own PRIVATE search engine)[https://www.youtube.com/watch?v=ifT6npY39Dw]
+- (I made a C compiler in C)[https://www.youtube.com/watch?v=UW8LgC-S_co]
 
 ---
 
