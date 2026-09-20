@@ -51,6 +51,7 @@
 | Stable Diffusion WebUI | https://github.com/AUTOMATIC1111/stable-diffusion-webui |
 | Ads Creation| https://usemintly.com/|
 |Dramaclaw|https://github.com/dramaclaw/dramaclaw|
+|miniapps.ai/gpt-6-astra|https://miniapps.ai/gpt-6-astra|
 
 ---
 
