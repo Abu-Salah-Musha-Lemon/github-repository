@@ -140,6 +140,7 @@
 - https://github.com/luongnv89/claude-howto
 - https://github.com/affaan-m/everything-claude-code
 - https://github.com/promptslab/Awesome-Prompt-Engineering
+- https://github.com/mizorewww/laya-coreml
 
 ## Courses
 
